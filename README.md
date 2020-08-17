@@ -1,5 +1,15 @@
 # MultiselectFormControlWidget
 
+##How to run Project!
+1. UnZip it.
+2. Open in VSCode or navigate through terminal and 
+	`npm i`
+make sure you have node.js & angular cli installed.
+3. Run project 
+	`ng serve -o`
+4. The project will open in default browser localhost:4200
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
 ## Development server
