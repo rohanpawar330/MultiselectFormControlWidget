@@ -1,0 +1,43 @@
+.w40 {
+    width: 40%;
+}
+.container {
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.chips {
+    padding: 6px;
+    margin: 2px;
+    width: fit-content;
+    min-width: 60%;
+    background: white;
+    color: black;
+    text-align: center;
+    border: 1px solid #e8e1e1;
+}
+.chips:hover {
+    background: #008cff;
+    color: white;
+}
+
+.display-grid {
+    display: grid;
+    height: 15vh;
+    place-items: center;
+    grid-template-columns: auto auto auto auto auto;
+    background: #f1f1f1;
+    box-shadow: none;
+}
+
+.size2em {
+    font-size: 2em;
+}
+.blue-txt {
+    color: #008cff;
+}
+// .inline-block,
+// .inline-block > div {
+//     display: inline-block;
+// }
